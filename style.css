@@ -62,7 +62,7 @@ p{
 }
 @media (max-width:375px) {
     .card{
-        width: 90vw;
+        width: 90em;
         max-width: 330px;
         margin: 10px;
     }
